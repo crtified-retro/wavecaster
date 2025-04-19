@@ -30,6 +30,3 @@ Reason : visuals
 
 I will release the project files here in the near future.
 
----
-### Licence 
-My work in this repository is free and open source.
