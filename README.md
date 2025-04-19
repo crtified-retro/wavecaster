@@ -1,4 +1,4 @@
-# Wavecraft
+# Wavecaster
 ## Summary
 
 It's been a couple of years since I began building and using versions of the milestone [WavetablePi project](https://github.com/scrapcomputing/WavetablePi) designed by Scrap Computing, which ports Dale Whinham's renowned [mt32-pi project](https://github.com/dwhinham/mt32-pi) onto the 'Waveblaster' daughterboard form factor used by legacy soundcards.
