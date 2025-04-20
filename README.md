@@ -1,4 +1,6 @@
 # Wavecaster
+![Wavecaster PCB](https://github.com/crtified-retro/wavecaster/blob/main/assets/draft_image.png)
+
 ## Summary
 
 It's been a couple of years since I began building and using versions of the milestone [WavetablePi project](https://github.com/scrapcomputing/WavetablePi) designed by Scrap Computing, which ports Dale Whinham's renowned [mt32-pi project](https://github.com/dwhinham/mt32-pi) onto the 'Waveblaster' daughterboard form factor used by legacy soundcards.
@@ -19,8 +21,11 @@ Reason : saves space and cost
 - **Removal of the Pi Audio option (J1,J2, & associated C's and R's)**  
 Reason : the Pi Audio selection is redundant with the higher-quality DAC onboard; saves space and cost
 
-- **Adoption of the breakout connector for screen and controls, as used by Serdaco's mt32-pi products**  
+- **Adoption of the breakout connector for screen and controls, as used by (e.g.) Serdaco's mt32-pi products**  
 Reason : enables the user to locate an external screen and buttons anywhere; keeps the profile thin
+
+- **Cooling hole over main RPi processor**  
+Reason : thermal benefit (not really needed, but it helps)
 
 * **Silkscreen updates**  
 Reason : visuals
